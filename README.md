@@ -95,5 +95,7 @@ In cybersecurity context, **Audit Brahmastra represents the ultimate audit weapo
 ## 👨‍💻 Developed By
 **Sumit Ghosh**  
 Cybersecurity Research & Development  
+Report Issue: whitehatsumit@proton.me
+
 
 ---
